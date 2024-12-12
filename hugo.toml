@@ -1,4 +1,4 @@
-baseURL = "https://blog.puppygirl.zone/"
+baseURL = "/"
 theme = "hugo-ficurinia"
 title = "Puppy's Useless Thoughts"
 languageCode = "en"
