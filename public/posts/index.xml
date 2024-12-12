@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Posts on Puppy&#39;s Useless Thoughts</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Puppy&#39;s Useless Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Some copyright notice - [my license](https://duckduckgo.com)</copyright>
+    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
+    
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/another-test/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/another-test/</guid>
+      <description><![CDATA[<h1 id="fluffy-is-cute">Fluffy is cute</h1>
+<p>Honestly fluffy is the cutest motherfucker on this earth.</p>
+]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/sugama-nuts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/sugama-nuts/</guid>
+      <description><![CDATA[<h1 id="with-the-power-of-flextape">WITH THE POWER OF FLEXTAPE</h1>
+<p>With the power of flextape. I SAWED THIS BOAT IN HALF!</p>
+]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>

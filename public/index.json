@@ -1,0 +1,32 @@
+
+{
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+        
+        
+        
+    
+        
+        
+        
+    
+        
+        
+        
+    
+    "articles": [{"date":"2024-12-11","image":"","imageAlt":"","link":"http://localhost:1313/posts/another-test/","summary":"\u003ch1 id=\"fluffy-is-cute\"\u003eFluffy is cute\u003c/h1\u003e\n\u003cp\u003eHonestly fluffy is the cutest motherfucker on this earth.\u003c/p\u003e","tags":["blog","post"],"title":""},{"date":"0001-01-01","image":"","imageAlt":"","link":"http://localhost:1313/posts/sugama-nuts/","summary":"\u003ch1 id=\"with-the-power-of-flextape\"\u003eWITH THE POWER OF FLEXTAPE\u003c/h1\u003e\n\u003cp\u003eWith the power of flextape. I SAWED THIS BOAT IN HALF!\u003c/p\u003e","tags":[],"title":""},{"date":"0001-01-01","image":"","imageAlt":"","link":"http://localhost:1313/manifest/index.json","summary":"","tags":[],"title":"Manifest"},{"date":"0001-01-01","image":"","imageAlt":"","link":"http://localhost:1313/search/","summary":"","tags":[],"title":"Search"}],
+    "test": "      Manifest   Search   ",
+    "page": "1",
+    "next": ""
+}
+
